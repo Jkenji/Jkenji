@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-kikuchi-64a583297/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](enzo.k.kikuchi@gmail.com)
 
-![Kenji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jkenji&show_icons=true&bg_color=00000000)
+![Kenji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jkenji&layout=compact&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkenji&layout=compact)
 
 ## Linguagens 
