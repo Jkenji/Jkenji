@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](enzo.k.kikuchi@gmail.com)
 
 ![Kenji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jkenji&layout=compact&theme=holi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkenji&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkenji&layout=compact&theme=holi)
 
 ## Linguagens 
 
