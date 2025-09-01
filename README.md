@@ -1,6 +1,6 @@
 ### Olá! Me chamo Kenji 👋
 
- • 🖳 Estudante do 5º semestre de Engenharia da Computação - CESUPA
+ • 🖳 Estudante do 6º semestre de Engenharia da Computação - CESUPA
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-kikuchi-64a583297/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](enzo.k.kikuchi@gmail.com)
